@@ -1,5 +1,5 @@
 {% include navbar.html %}{% include top-box.html %}
-# SOK-xxxx Kurs    
+# SOK-3012 Forskningsseminar   
 
 ## Seminarplan   
 
@@ -7,7 +7,6 @@
 
 |Uke | Seminarnr. | Tema                        |  Oppgaver og ressurser  |
 |----|------------|-----------------------------|-------------------------|
-| x  | x          | Tilbud og etterspørsel I    | kommer                  |
-| x  | x          | IS-LM                       | kommer                  |
-| x  | x          | R                           | kommer                  |
-| x  | x          | Python                      | kommer                  |
+| x  | x          | Tema 1                      | kommer                  |
+| x  | x          | Tema 2                      | kommer                  |
+

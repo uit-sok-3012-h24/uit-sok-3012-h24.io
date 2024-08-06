@@ -1,5 +1,5 @@
 {% include navbar.html %}{% include top-box.html %}
-# Sok-xxxx Mikroøkonomi   
+# SOK-3012 Forskningsseminar
 
 ## Innleveringer 
 
@@ -10,9 +10,9 @@
 
 | Type oppgave                       | Innleveringsfrist | Ressurser |
 |------------------------------------|-------------------|-----------|
-|Mappeoppgave 1                      |  xx.xx            | kommer    |
-|Arbeidskrav 1                       | Uke x/x           | kommer    |
-|Mappeoppgave 2                      | xx.xx kl xx:xx    | kommer    |
+|Oppgave 1                           |  xx.xx            | kommer    |
+|Oppgave 2                           | Uke x/x           | kommer    |
+|Oppgave 3                           | xx.xx kl xx:xx    | kommer    |
 
 
 Oppgavene kan løses i grupper på maksimalt 3.

@@ -1,9 +1,5 @@
 {% include navbar.html %}  {% include top-box.html %}
 
-
-## [Slik lager du et kursrepositorie](readme_no.html){:target="blank"} (Slettes)
-
-
 ## Kursplan  
 
 Forelesnings- og seminarplanene inneholder informasjon om tidspunkt, tema, faglærer samt ressurser/oppgaver til hvert tema.  
@@ -20,13 +16,11 @@ Innleveringsplanen gir oppgaver, frister og ressurser i forbindelse med obligato
 ## Kursbeskrivelse 
 
 
-Kurset består av ulike interessante tema  
+Kurset gir en innføring i vitenskapsteoretiske og metodologiske tilnærminger til samfunnsøkonomisk forskning. Hensikten er å gi studenter et grunnlag for å gjennomføre egne analyser på en kritisk og reflektert måte, og i tråd med forskningsetikk. Kurset gjennomgår en del arbeid knyttet til ny økonomisk forskning.
 
 
 ## Faglærerinfo  
-- [Derek J. Clark](https://uit.no/ansatte/derek.clark){:target="blank"} (fagansvarlig)
-- [Espen Sirnes](https://uit.no/ansatte/person?p_document_id=41418){:target="blank"}
-
+- [Øivind Devik Schøyen]https://uit.no/ansatte/oivind.d.schoyen){:target="blank"} (fagansvarlig)
 
 
 ## Administrative spørsmål
@@ -38,7 +32,7 @@ For henvendelser av administrative art send e-post til: <hhcampus@hjelp.uit.no>.
 
 ### Pensum til forelesningene
 
-[Leganto](https://bibsys-c.alma.exlibrisgroup.com/leganto/){:target="blank"}  
+[Leganto](https://bibsys-c.alma.exlibrisgroup.com/leganto/readinglist/searchlists/12277032790002205){:target="blank"}  
 
 
 

@@ -1,5 +1,5 @@
 {% include navbar.html %}{% include top-box.html %}
-# Forelesningsplan  
+# Forelesningsplan  SOK-3012 Forskningsseminar
 
 **Informasjonsmøte** om sok-xxxx finner sted i xx.xx.xx kl xx:xx    
 
